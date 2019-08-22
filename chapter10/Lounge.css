@@ -56,8 +56,17 @@ h2 {
 	color: red;
 }
 
-#elixirs a {
+#elixirs a:link {
 	color: #a7cece;
+}
+
+#elixirs a:visited {
+	color: #333333;
+}
+
+#elixirs a:hover {
+	background: #f88396;
+	color: #0d5353;
 }
 
 #copyright {
