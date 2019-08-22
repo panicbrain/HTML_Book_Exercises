@@ -46,6 +46,7 @@ h2 {
 	background-repeat: repeat-x;
 	text-align: center;
 	line-height: 1.5;
+	float: right;
 }
 
 #elixirs h2 {
